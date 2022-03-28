@@ -5,6 +5,7 @@ Allen Schmerler
 Ritika Suresh
 
 Company Name: RAA
+
 Motto: Choose Your Own Weather
 
 Competition Link: https://www.kaggle.com/competitions/crowdflower-weather-twitter
